@@ -1,2 +1,2 @@
 White Board project 
-live project Link:
+live project Link:https://whiteboardnpro.netlify.app/
